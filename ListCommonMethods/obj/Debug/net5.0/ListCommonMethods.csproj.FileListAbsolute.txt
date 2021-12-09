@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.exe
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.deps.json
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.json
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.dll
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\bin\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.AssemblyInfo.cs
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.dll
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ref\ListCommonMethods.dll
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.pdb
+C:\Users\vicen\source\repos\ListasYSentenciasForeach\ListCommonMethods\obj\Debug\net5.0\ListCommonMethods.genruntimeconfig.cache
